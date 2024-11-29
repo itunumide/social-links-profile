@@ -15,9 +15,9 @@ body{
     gap: 30px;
 }
 main{
-    width: 300px;
+    width: 320px;
     background-color:  hsl(0, 0%, 12%);
-    padding: 30px;
+    padding: 40px;
     border-radius: 10px;
 }
 .profile{
@@ -25,11 +25,11 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .profile-picture{
     width: 80px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     img{
         width: 100%;
         border-radius: 50%;
@@ -47,7 +47,7 @@ main{
     color: hsl(75, 94%, 57%);
     font-size: 14px;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 .profile-bio{
     color: hsl(0, 0%, 100%) ;
@@ -64,7 +64,7 @@ main{
    text-align: center;
    color: hsl(0, 0%, 100%) ;
     background-color: hsl(0, 0%, 20%);
-    padding: 13px;
+    padding: 15px;
     border-radius: 10px;
     font-weight: 700;
     transition-duration: .5s;
